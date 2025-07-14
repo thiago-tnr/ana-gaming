@@ -24,6 +24,13 @@ Configure as variáveis no `.env`:
 BATCH_SIZE=1000
 SEND_DELAY_MS=1000
 ```
+## 📦 Instalação
+- Antes de rodar, instale as dependências:
+
+```bash
+npm install
+```
+
 ## 🧪 Testes
 
 ```bash
