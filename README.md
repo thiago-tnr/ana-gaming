@@ -21,7 +21,7 @@ ana-gaming/
 
 | Aplicação | Função Principal | Stack | Docs |
 |----------|------------------|-------|------|
-| [`ana-gaming-app-1`](./ana-gaming-app-1) | Lê o CSV, separa em batches e envia via RabbitMQ | NestJS, RxJS, CSV-parser, RabbitMQ | 📄 [`README.md`](./ana-gaming-app-1/README.md) |
+| [`ana-gaming-app-1`](./ana-gaming-app-1) | Lê o CSV, separa em batches e envia via RabbitMQ | NestJS, CSV-parser, RabbitMQ | 📄 [`README.md`](./ana-gaming-app-1/README.md) |
 | [`ana-gaming-app-2`](./ana-gaming-app-2) | Consome os batches, agrega por estado e armazena no MongoDB | NestJS, Mongoose, RabbitMQ | 📄 [`README.md`](./ana-gaming-app-2/README.md) |
 
 ---
