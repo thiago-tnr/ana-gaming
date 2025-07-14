@@ -28,7 +28,12 @@ Crie um arquivo `.env` com as seguintes configurações:
 
 ```env
 MONGO_URI=mongodb://localhost:27017/personDb
-PORT=3001
+```
+## 📦 Instalação
+- Antes de rodar, instale as dependências:
+
+```bash
+npm install
 ```
 
 ## 🧪 Testes
